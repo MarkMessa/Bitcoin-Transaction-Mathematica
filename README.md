@@ -1,2 +1,2 @@
-# BTC-Transaction-Mathematica
-Bitcoin raw unsign transaction package for Mathematica 9.0
+# Bitcoin Transactions with Mathematica
+Package for Mathematica 9.0 with utilities to build Bitcoin raw transactions.
